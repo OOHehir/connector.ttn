@@ -1,5 +1,11 @@
 # connector.ttn
 
+> ⚠️ **Unmaintained.** This project has not been actively maintained for several
+> years and likely no longer works against current Homey and The Things Network
+> APIs (notably Homey's webhook/flow handling has changed since). It is kept here
+> for reference. Issues may not get a response, but PRs to modernise it are
+> welcome — feel free to fork.
+
 Homey app that bridges The Things Network (TTN) LoRaWAN uplinks to Homey flow automations — receives decoded payloads via webhook and exposes them as flow trigger cards.
 
 ## Key Technologies
